@@ -1,5 +1,4 @@
 <script>
-
     export let title = "Título del proyecto";
     export let titlecolor = "text-white";
     export let subtitle = "Subtítulo del proyecto";
@@ -13,7 +12,6 @@
     export let githubcolor = "text-white";
     export let backgroundcolor = "bg-gray-800";
     export let hovercolor = "hover:bg-gray-200";
-
 </script>
 
 <div class="w-full max-w-sm px-4 py-3 mx-auto mb-1 {backgroundcolor} lg:rounded-md rounded md:lg:rounded-md shadow-md {hovercolor} transition duration-150">
