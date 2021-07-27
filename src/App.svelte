@@ -6,6 +6,7 @@
 	import Hero from "./components/Hero.svelte";
 	import Project from "./components/Project/Project.svelte";
 	import Services from "./components/Services.svelte";
+	import Contact from "./components/Contact.svelte";
 	import { fly, fade } from 'svelte/transition';
 </script>
 
@@ -123,6 +124,9 @@
 		</Route>
 
 		<Route path="contact">
+			<div in:fly>
+				<Contact />
+			</div>
 		</Route>
 
 		<Footer />
