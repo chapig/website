@@ -29,7 +29,7 @@
 
 </script>
 
-<nav class="fixed w-full md:relative z-50 lg:relative px-4 py-4 flex justify-between items-center">
+<nav class="fixed w-full md:relative z-50 lg:relative px-4 py-4 flex justify-between items-center bg-white">
   <Link to="/" class="text-3xl font-bold leading-none">
     <svg class="h-16" alt="logo" viewBox="0 0 10240 10240">
       {@html chapigblacklogo}
