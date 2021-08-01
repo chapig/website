@@ -166,7 +166,7 @@
     </div>
     <div class="mt-auto">
       <div class="pt-6">
-        <Link to="contact" class="block px-4 py-3 mb-2 leading-loose text-sm text-center text-black">Contáctame</Link>
+        <Link on:click={toggleCvMobile} to="contact" class="block px-4 py-3 mb-2 leading-loose text-sm text-center text-black">Contáctame</Link>
       </div>
       <p class="my-4 text-xs text-center text-black">
         <span>Luis Alfredo Chaparro Gómez © Copyright 2021. Todos los derechos reservados</span>
