@@ -13,7 +13,7 @@
             <p class="mt-4 text-black">Ofrezco servicios de diseño gráfico para redes sociales, creación de sitios web, programas y asesorado para la modernización de tu empresa.</p>
             
             <div class="mt-8">
-                <Link to="./contact" class="px-5 py-2 text-black transition-colors duration-200 transform bg-yellow-400 rounded-md hover:bg-gray-900 hover:text-white">Contacto</Link>
+                <Link to="/contact" class="px-5 py-2 text-black transition-colors duration-200 transform bg-yellow-400 rounded-md hover:bg-gray-900 hover:text-white">Contacto</Link>
             </div>
         </div>
     </div>
