@@ -17,7 +17,7 @@
         <hr class="my-10 border-black">
 
         <div class="sm:flex sm:items-center sm:justify-between">
-            <p class="text-sm text-black">Luis Alfredo Chaparro Gómez © Copyright 2021. Todos los derechos reservados.</p>
+            <p class="text-sm text-black">Luis Alfredo Chaparro Gómez © Copyright 2022. Todos los derechos reservados.</p>
 
             <div class="flex mt-3 -mx-2 sm:mt-0">
                 <a href="aquivalink" class="mx-2 text-black hover:text-white transition duration-200 dark:hover:text-gray-300" aria-label="Reddit">
